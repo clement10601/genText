@@ -1,0 +1,6 @@
+fonts*/
+output/
+backup/
+a.py
+.DS_Store
+*.txt
